@@ -26,7 +26,7 @@ This project was developed with the following technologies:
 <br>
 
 ## ⚙ Settings
-- Open with life server 
+- Open with live server 
 <br>
 
 ---
